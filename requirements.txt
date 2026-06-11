@@ -3,7 +3,7 @@ Flask-Cors
 pandas
 numpy
 joblib
-scikit-learn
+scikit-learn==1.8.0
 imbalanced-learn
 mlflow
 dagshub
